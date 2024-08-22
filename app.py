@@ -36,5 +36,4 @@ def products():
     return 'this is the Product page'
 
 
-
-app.run(debug=True, port=7000)
+app.run(debug=True, port=6000)
